@@ -1,5 +1,8 @@
-# always-be-clojuring 🐝
-## Issue tracker
+#### always-be-clojuring 🐝
+<h1 align="center">
+  Issue Tracker
+</h1>
+
 
 ## Assumptions
 The Clojure and Clojurescript community would like more developers and companies to use Clojure.
