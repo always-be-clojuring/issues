@@ -4,7 +4,7 @@
 </h1>
 
 
-## Assumptions
+#### Assumptions
 The Clojure and Clojurescript community would like more developers and companies to use Clojure.
 
 Currently Clojure and Clojurescript have a steep learning curve for most developers. 
@@ -38,6 +38,7 @@ Prioritizing issues by how much impact the community thinks a solution would hav
 This can allow interested contributors to avoid spending time on issues that the community as a whole doesn't think will make as much of a difference as other issues.
 
 **Costing**
+
 By considering the cost of implementation, the community and contributors can have a better idea of the amount of time and effort involved to implement one solution versus another. 
 Cross referencing this with how much impact we estimate it will have might show us there are low cost, high value issues we can take on right away.
 
