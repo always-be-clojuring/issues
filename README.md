@@ -46,6 +46,7 @@ Cross referencing this with how much impact we estimate it will have might show 
 
 ## Prior art
 - [Guidance for ClojureScript beginners](https://docs.google.com/document/d/1vom_MUTmQjsmjeQgw60ChGO9NDD9AvoIwJPPzrf8FKM/edit#heading=h.657ovwb1zxit)
+- [Clojurescript for JS Devs](https://github.com/thheller/shadow-cljs/wiki/ClojureScript-for-JS-Devs)
 - [Clojure's growth trajectory](https://www.reddit.com/r/Clojure/comments/7047ts/clojure_growth_trajectory/)
 - [I just started learning Clojure, I love it but the documentation is just about the worst thing ever](https://www.reddit.com/r/Clojure/comments/7024oj/i_just_started_learning_clojure_i_love_it_but_the/)
 - [Maybe Clojure has nothing to offer web programming that is better enough to make people switch](https://twitter.com/ericnormand/status/947947506838753280)
