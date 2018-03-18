@@ -43,7 +43,6 @@ By considering the cost of implementation, the community and contributors can ha
 Cross referencing this with how much impact we estimate it will have might show us there are low cost, high value issues we can take on right away.
 
 
-
 ## Prior art
 - [Clojure's growth trajectory](https://www.reddit.com/r/Clojure/comments/7047ts/clojure_growth_trajectory/)
 - [I just started learning Clojure, I love it but the documentation is just about the worst thing ever](https://www.reddit.com/r/Clojure/comments/7024oj/i_just_started_learning_clojure_i_love_it_but_the/)
@@ -56,3 +55,24 @@ Cross referencing this with how much impact we estimate it will have might show 
 - [Clojurescript for JS Devs](https://github.com/thheller/shadow-cljs/wiki/ClojureScript-for-JS-Devs)
 - [welcome-to-cljs](https://github.com/shaunlebron/welcome-to-cljs)
 - [cljs](https://www.npmjs.com/package/cljs)
+
+### Editor setup
+- [Slick Clojure Editor Setup with Atom](https://medium.com/@jacekschae/slick-clojure-editor-setup-with-atom-a3c1b528b722)
+
+### Error messages
+- [Improving error messages in Clojure as a library](https://clojureverse.org/t/improving-error-messages-in-clojure-as-a-library/1765)
+
+https://twitter.com/borkdude/status/974253241574809600
+
+## Ongoing efforts
+### Beginner entrypoints
+- [Clojurescript 1.10 Quickstart](https://github.com/clojure/clojurescript-site/blob/96cdf27ff1a2a836ae4f7c706e48a0bff21e95a0/content/guides/quick-start.adoc)
+- [maria.cloud](https://www.maria.cloud/) - A ClojureScript coding environment for beginners. [Github repo](https://github.com/mhuebert/maria)
+
+### Documentation
+- [Dynadoc](https://github.com/oakes/Dynadoc) - Dynamic documentation for Clojure(Script)
+- [Ultra Docstrings](https://github.com/ericnormand/ultra-docstrings) - Replacement docstrings for Clojure, focusing on learning.
+
+### Error messages
+- [Pyro](https://github.com/venantius/pyro) - Light up your Clojure stacktraces
+- [expound](https://github.com/bhb/expound) - Human-optimized error messages for clojure.spec
