@@ -55,6 +55,7 @@ Cross referencing this with how much impact we estimate it will have might show 
 - [Clojurescript for JS Devs](https://github.com/thheller/shadow-cljs/wiki/ClojureScript-for-JS-Devs)
 - [welcome-to-cljs](https://github.com/shaunlebron/welcome-to-cljs)
 - [cljs](https://www.npmjs.com/package/cljs)
+- [Parens of the Dead](http://www.parens-of-the-dead.com/)
 
 ### Editor setup
 - [Slick Clojure Editor Setup with Atom](https://medium.com/@jacekschae/slick-clojure-editor-setup-with-atom-a3c1b528b722)
